@@ -379,7 +379,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url("https://ibb.co/Nx6gdMz") no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
